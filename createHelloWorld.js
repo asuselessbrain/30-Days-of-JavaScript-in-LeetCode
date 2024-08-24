@@ -1,6 +1,6 @@
 const createHelloWorld = function () {
   return function (...args) {
-    "Hello world";
+    return "Hello world";
   };
 };
 
